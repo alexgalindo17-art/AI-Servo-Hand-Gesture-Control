@@ -28,7 +28,7 @@ The model was exported using TensorFlow Lite and runs locally on the computer.
 
 ## Hardware
 
-![Arduino Mega and SG90 servo setup](arduino_servo_setup.jpg)
+![Arduino Mega and SG90 servo setup](arduino_servo_setup.jpeg)
 
 The hardware used for this project includes:
 
@@ -37,6 +37,8 @@ The hardware used for this project includes:
 - Jumper wires
 - USB cable
 - Computer with webcam
+
+The SG90 servo is connected to the Arduino Mega and is controlled based on predictions made by the trained AI vision model.
 
 The SG90 servo is connected to the Arduino Mega and is controlled based on the predictions made by the trained AI vision model.
 
