@@ -1,0 +1,3 @@
+0 Open Hand
+1 closed hand
+2 Nothing
